@@ -1,0 +1,152 @@
+[
+  {
+    "id": "0001",
+    "name": "Adidas",
+    "url": "http://www.onvista.de/aktien/fundamental/Adidas-Aktie-DE000A1EWWW0"
+  },
+  {
+    "id": "0002",
+    "name": "Allianz",
+    "url": "http://www.onvista.de/aktien/fundamental/Allianz-Aktie-DE0008404005"
+  },
+  {
+    "id": "0003",
+    "name": "BASF",
+    "url": "http://www.onvista.de/aktien/fundamental/BASF-Aktie-DE000BASF111"
+  },
+  {
+    "id": "0004",
+    "name": "Bayer",
+    "url": "http://www.onvista.de/aktien/fundamental/Bayer-Aktie-DE000BAY0017"
+  },
+  {
+    "id": "0005",
+    "name": "BMW",
+    "url": "http://www.onvista.de/aktien/fundamental/BMW-Aktie-DE0005190003"
+  },
+  {
+    "id": "0006",
+    "name": "Beierdorf",
+    "url": "http://www.onvista.de/aktien/fundamental/Beiersdorf-Aktie-DE0005200000"
+  },
+  {
+    "id": "0007",
+    "name": "Commerzbank",
+    "url": "http://www.onvista.de/aktien/fundamental/Commerzbank-Aktie-DE000CBK1001"
+  },
+  {
+    "id": "0008",
+    "name": "Continental",
+    "url": "http://www.onvista.de/aktien/fundamental/Continental-Aktie-DE0005439004"
+  },
+  {
+    "id": "0009",
+    "name": "Daimler",
+    "url": "http://www.onvista.de/aktien/fundamental/Daimler-Aktie-DE0007100000"
+  },
+  {
+    "id": "0010",
+    "name": "Deutsche Bank",
+    "url": "http://www.onvista.de/aktien/fundamental/Deutsche-Bank-Aktie-DE0005140008"
+  },
+  {
+    "id": "0011",
+    "name": "Deutsche Börse",
+    "url": "http://www.onvista.de/aktien/fundamental/Deutsche-Boerse-Aktie-DE0005810055"
+  },
+  {
+    "id": "0012",
+    "name": "Lufthansa",
+    "url": "http://www.onvista.de/aktien/fundamental/Lufthansa-Aktie-DE0008232125"
+  },
+  {
+    "id": "0013",
+    "name": "Deutsche Post",
+    "url": "http://www.onvista.de/aktien/fundamental/Deutsche-Post-Aktie-DE0005552004"
+  },
+  {
+    "id": "0014",
+    "name": "Deutsche Telekom",
+    "url": "http://www.onvista.de/aktien/fundamental/Deutsche-Telekom-Aktie-DE0005557508"
+  },
+  {
+    "id": "0015",
+    "name": "EON",
+    "url": "http://www.onvista.de/aktien/fundamental/EON-Aktie-DE000ENAG999"
+  },
+  {
+    "id": "0016",
+    "name": "Fresenius Medical Care",
+    "url": "http://www.onvista.de/aktien/fundamental/Fresenius-Medical-Care-Aktie-DE0005785802"
+  },
+  {
+    "id": "0017",
+    "name": "Fresenius",
+    "url": "http://www.onvista.de/aktien/fundamental/Fresenius-Aktie-DE0005785604"
+  },
+  {
+    "id": "0018",
+    "name": "Heidelberg Cement",
+    "url": "http://www.onvista.de/aktien/fundamental/HeidelbergCement-Aktie-DE0006047004"
+  },
+  {
+    "id": "0019",
+    "name": "Henkel",
+    "url": "http://www.onvista.de/aktien/fundamental/Henkel-Aktie-DE0006048432"
+  },
+  {
+    "id": "0020",
+    "name": "Infineon",
+    "url": "http://www.onvista.de/aktien/fundamental/Infineon-Aktie-DE0006231004"
+  },
+  {
+    "id": "0021",
+    "name": "K+S",
+    "url": "http://www.onvista.de/aktien/fundamental/K+S-Aktie-DE000KSAG888"
+  },
+  {
+    "id": "0022",
+    "name": "Linde",
+    "url": "http://www.onvista.de/aktien/fundamental/Linde-Aktie-DE0006483001"
+  },
+  {
+    "id": "0023",
+    "name": "Merck",
+    "url": "http://www.onvista.de/aktien/fundamental/Merck-Aktie-DE0006599905"
+  },
+  {
+    "id": "0024",
+    "name": "Münchner rück",
+    "url": "http://www.onvista.de/aktien/fundamental/Muenchener-Rueck-Aktie-DE0008430026"
+  },
+  {
+    "id": "0025",
+    "name": "RWE",
+    "url": "http://www.onvista.de/aktien/fundamental/RWE-Aktie-DE0007037129"
+  },
+  {
+    "id": "0026",
+    "name": "SAP",
+    "url": "http://www.onvista.de/aktien/fundamental/SAP-Aktie-DE0007164600"
+  },
+  {
+    "id": "0027",
+    "name": "Siemens",
+    "url": "http://www.onvista.de/aktien/fundamental/Siemens-Aktie-DE0007236101"
+  },
+  {
+    "id": "0028",
+    "name": "ThyssenKrupp",
+    "url": "http://www.onvista.de/aktien/fundamental/ThyssenKrupp-Aktie-DE0007500001"
+  },
+  {
+    "id": "0029",
+    "name": "Volkswagen VZ",
+    "url": "http://www.onvista.de/aktien/fundamental/Volkswagen-VZ-Aktie-DE0007664039"
+  },
+  {
+    "id": "0030",
+    "name": "VONOVIA SE",
+    "url": "http://www.onvista.de/aktien/fundamental/VONOVIA-SE-Aktie-DE000A1ML7J1"
+  }
+]
