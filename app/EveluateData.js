@@ -5,6 +5,8 @@
 var data = require('./adcapital.json');
 var sumPoints;
 
+/** TODO: Kurs heute gegen 6 Monate, gegen 1 Jahr, Kursmomentum, Analystemeinungen (datum für Q-Bericht), siehe examples/Aspiranten.jpg **/
+
 /** check Eigenkapitalrendite und vergib entsprechende Punktzahl **/
 if(data.hasOwnProperty('2014','Eigenkapitalrendite')){
     console.log('Eigenkapitalrendite = ' + data['2014']['Eigenkapitalrendite']);

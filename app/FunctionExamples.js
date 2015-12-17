@@ -1,6 +1,8 @@
 var Xray = require('x-ray');
 var x = Xray();
 
+/** TODO: Analystenmeinungen scrapen, siehe: "https://www.consorsbank.de/Wertpapierhandel/Aktien/Kurs-Snapshot/Analysen/Analystenmeinungen/DE0007664005-VOLKSWAGEN-AG;jsessionid=D7B92D30B878B7737FC03D6555C8C50A.app272" **/
+
 function getKPIs(url, callback){
   x(url,
   {
