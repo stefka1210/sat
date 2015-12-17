@@ -91,9 +91,26 @@ function getRates(url, callback){
 /********************************
 Test
 *********************************/
+
+fs = require('fs');
+
 getKPIs('http://www.onvista.de/aktien/fundamental/Volkswagen-VZ-Aktie-DE0007664039', function(result){
-  console.log(result);
+  //console.log(result);
+  var output = JSON.stringify(result, null, 4);
+  fs.writeFile('volkswagen.json', output , function (err) {
+    if (err) return console.log(err);
+  });
 });
+
+getKPIs('http://www.onvista.de/aktien/fundamental/ADCAPITAL-AG-Aktie-DE0005214506', function(result){
+  //console.log(result);
+  var output = JSON.stringify(result, null, 4);
+  fs.writeFile('adcapital.json', output , function (err) {
+    if (err) return console.log(err);
+  });
+});
+
 getRates('http://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=9620569&dateStart=16.12.2014&interval=Y1&assetName=Volkswagen%20VZ&exchange=Tradegate', function(rates){
   console.log(rates);
-})
+});
+
